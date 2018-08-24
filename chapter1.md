@@ -10,7 +10,7 @@ type: NormalExercise
 lang: r
 xp: 100 
 skills: 1
-key: c6bdb51783   
+key: 0f0ec5878c   
 ```
 
 
@@ -40,15 +40,7 @@ The instructions that follow should be in bullet point form with clear guidance 
 `@sample_code`
 
 ```{r}
-# Your
-# sample
-# code
-# should
-# be
-# ideally
-# 10 lines or less,
-# with a max
-# of 16 lines.
+print("Hello, DataCamp!")
 ```
 
 
